@@ -1,0 +1,1 @@
+A website about my dog who can paint. This is just a project for The Odin Project to practice my HTML and CSS.
