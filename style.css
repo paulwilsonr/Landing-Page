@@ -144,3 +144,28 @@ footer {
 footer p {
     margin-bottom: 0;
 }
+
+@media (max-width: 480px) {
+    header {
+        padding: 16px 0;
+    }
+
+    .intro {
+        padding: 50px 0;
+        flex-direction: column-reverse;
+        gap: 10px;
+        align-content: center;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .call-to-action {
+        padding: 30px;
+        margin: 10px 10px 50px 10px;
+    }
+}
